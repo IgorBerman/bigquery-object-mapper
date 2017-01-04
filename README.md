@@ -1,7 +1,8 @@
 # bigquery-object-mapper
-The BigQueryObjectMapper helps to map a POJO to a BQ Row and generate a BQ schema based on the POJO using reflection
+The BigQueryObjectMapper is a class that makes it easy for you to convert your model objects to BigQuery Row Object and
+generate a BigQuery schema based on your model objects using reflection.
 
-Currently Supports just LegacySQL
+`Currently Supports just LegacySQL`
 
 # Usage
 ```java
